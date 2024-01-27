@@ -11,7 +11,7 @@ Implemented responsive insta share app like Instagram Clone where users can see 
 Technologies used: HTML, CSS, JavaScript, React JS, Figma, Rest API Calls, React Slick.
 
 </details>
-### Published Url  https://instasharesai.ccbp.tech/
+Published Url  https://instasharesai.ccbp.tech/
 
 ### Prerequisites
 
